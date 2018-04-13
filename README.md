@@ -3,7 +3,7 @@
 * [MQ消息轨迹](http://mp.weixin.qq.com/s/h3Q8tLUFjta0i14OXiExqQ)
 * [聊聊高并发系统之降级特技](http://mp.weixin.qq.com/s/FcPzLkP7n8MVaOnZibGs1w)
 * [Java并发原理与JMM](http://mp.weixin.qq.com/s/z057Va1JNNOjTTrnuE9pPg)
-* []()
+* [【系统架构】Web系统大规模并发：电商秒杀与抢购](http://mp.weixin.qq.com/s/zDbcV_vJeBOnAYxK0WEJQQ)
 * []()
 * []()
 * []()
