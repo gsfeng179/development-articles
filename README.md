@@ -1,5 +1,18 @@
 # 分享一线互联网常用技术与问题解决方案
 
+
+### DB数据异构
+* [Alibaba 数据异构利器Canal](https://github.com/alibaba/canal)
+* [美团 DB 数据同步到数据仓库的架构与实践](https://tech.meituan.com/binlog_dw.html)
+* [ElasticSearch + Canal 开发千万级的实时搜索系统](https://mp.weixin.qq.com/s/ztVsWqAtO1kT9dFZLW3rZg)
+* [Msql-Canal数据库同步](https://mp.weixin.qq.com/s/TwhzVdEIEIGx2Rir_5tG8w)
+* ...
+#### 源码解读系列
+* [Canal源码学习-端木轩](notes/canal_源码解读.md)
+* ...
+
+
+### 随读
 * [网站高并发大流量访问的处理及解决方法](http://mp.weixin.qq.com/s/OMyWg53xBF2_Lk0QYDOWpw)
 * [消息队列技术点梳理（思维导图版）](https://mp.weixin.qq.com/s/8btqiyxPY1XhvN2UTqDUxw)
 * [MQ消息轨迹](http://mp.weixin.qq.com/s/h3Q8tLUFjta0i14OXiExqQ)
@@ -13,35 +26,23 @@
 * [金丝雀发布、滚动发布、蓝绿发布到底有什么差别？关键点是什么？](http://mp.weixin.qq.com/s/WdCM6cOmjdhAEa6PtviH9A)
 * [零基础都秒懂：手把手教你搭建一套微服务框架！](http://mp.weixin.qq.com/s/lokfpgObn6bF7BahARfkfg)
 * [大话程序猿眼里的高并发！](http://mp.weixin.qq.com/s/gf_h9IQz-oZ_wxis0yUEHg)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* ...
 
 # [Spring](notes/Spring.md)
 * [Spring核心技术原理（1）为什么要有Spring?](https://mp.weixin.qq.com/s/s77m4K272p6qm4VmEDdbCw)
 * [Spring核心技术原理（2）为什么要有Spring AOP？](https://mp.weixin.qq.com/s/Jcpp-5dib242nuhizU3dmQ)
 * [Spring核心技术原理（3）Spring历史版本变迁和如今的生态帝国](https://mp.weixin.qq.com/s/CoCZlFAKzCNVFqk3w3Pzpg)
+* ...
 
 # 网络
 * [改变世界的TCP/IP协议](https://mp.weixin.qq.com/s/qDHY7r068UTpJnYcJ1Favw)
-
+* ...
 # 开源项目源码阅读
 * [Sharding-JDBC 源码解析合集](http://www.iocoder.cn/categories/Sharding-JDBC/?mp)
 * [MyCAT 源码解析合集](http://www.iocoder.cn/categories/MyCAT/?mp)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* ...
+
+### 码农翻身大佬刘欣文章集锦
 * [码农翻身2016全年文章精华](https://mp.weixin.qq.com/s/EjVfk1iOuQUjLfPxt_DJ7Q)
 * [码农翻身2017全年文章精华](https://mp.weixin.qq.com/s/cbaR--hlEN37fwTIRNhKaQ)
+* ...
