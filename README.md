@@ -28,6 +28,10 @@
 >* [分布式事务解决方案——柔性事务与服务模式](https://www.hollischuang.com/archives/2591)
 * [Saga分布式事务解决方案与实践](https://mp.weixin.qq.com/s?__biz=MzI4MTY5NTk4Ng==&mid=2247489026&amp;idx=1&amp;sn=67184a64653164d1c48255e0e87373c8&source=41#wechat_redirect)
 * [分布式事务在Sharding-Sphere中的实现](https://mp.weixin.qq.com/s?__biz=MzI4NTA1MDEwNg==&mid=2650769307&idx=1&sn=472840471324f466032aecef2df1be68&chksm=f3f9320ec48ebb18a853a55c5338b21e7a3303f12c68b648d6130cfae7a0fdcde1b72e3f2403&scene=0#rd)
+* [漫画：什么是分布式事务？](https://note.youdao.com/share/?id=7d2ac7535fd669a8575cb098824f6b68&type=note#/)
+* [从银行转账失败到分布式事务：总结与思考](https://note.youdao.com/share/?id=3ff0b6ad0c6393d3e90493733a8f0a78&type=note#/)
+* [浅谈分布式事务](https://note.youdao.com/share/?id=8ffe38ba0b0011a4a55c259c93773c22&type=note#/)
+* [聊聊分布式事务，再说说解决方案](http://www.cnblogs.com/savorboard/p/distributed-system-transaction-consistency.html)
 ##### RPC
 
 ### 随读
