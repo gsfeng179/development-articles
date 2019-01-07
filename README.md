@@ -32,6 +32,10 @@
 * [从银行转账失败到分布式事务：总结与思考](https://note.youdao.com/share/?id=3ff0b6ad0c6393d3e90493733a8f0a78&type=note#/)
 * [浅谈分布式事务](https://note.youdao.com/share/?id=8ffe38ba0b0011a4a55c259c93773c22&type=note#/)
 * [聊聊分布式事务，再说说解决方案](http://www.cnblogs.com/savorboard/p/distributed-system-transaction-consistency.html)
+
+* [拜托，面试请不要再问我TCC分布式事务的实现原理！【石杉的架构笔记】](https://mp.weixin.qq.com/s/mIW1_K5fAoa2OlSLdXSHpQ)
+* [最终一致性分布式事务如何保障实际生产中99.99%高可用？【石杉的架构笔记】](https://mp.weixin.qq.com/s/yRDUQtVPz5eqCx961xL6nw)
+* []()
 ##### RPC
 
 ### 随读
