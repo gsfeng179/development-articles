@@ -59,6 +59,9 @@
 * [Spring核心技术原理（2）为什么要有Spring AOP？](https://mp.weixin.qq.com/s/Jcpp-5dib242nuhizU3dmQ)
 * [Spring核心技术原理（3）Spring历史版本变迁和如今的生态帝国](https://mp.weixin.qq.com/s/CoCZlFAKzCNVFqk3w3Pzpg)
 * ...
+# Java基础
+* [漫画：什么是单例模式？（整合版）](http://note.youdao.com/noteshare?id=b45dfc81cca23a69893020a389fcc121&sub=020DE73E0EA1415EBD42884F97A7A40D)
+* [深入理解单例模式：静态内部类单例原理](https://blog.csdn.net/mnb65482/article/details/80458571)
 
 # 网络
 * [改变世界的TCP/IP协议](https://mp.weixin.qq.com/s/qDHY7r068UTpJnYcJ1Favw)
