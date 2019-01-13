@@ -35,7 +35,7 @@
 
 * [拜托，面试请不要再问我TCC分布式事务的实现原理！【石杉的架构笔记】](https://mp.weixin.qq.com/s/mIW1_K5fAoa2OlSLdXSHpQ)
 * [最终一致性分布式事务如何保障实际生产中99.99%高可用？【石杉的架构笔记】](https://mp.weixin.qq.com/s/yRDUQtVPz5eqCx961xL6nw)
-* []()
+
 ##### RPC
 
 ### 随读
@@ -62,7 +62,7 @@
 # Java基础
 * [漫画：什么是单例模式？（整合版）](http://note.youdao.com/noteshare?id=b45dfc81cca23a69893020a389fcc121&sub=020DE73E0EA1415EBD42884F97A7A40D)
 * [深入理解单例模式：静态内部类单例原理](https://blog.csdn.net/mnb65482/article/details/80458571)
-
+* [Java中Enum类型的序列化及类升级不建议用枚举的原因](https://blog.csdn.net/hupoling/article/details/74990456)
 # 网络
 * [改变世界的TCP/IP协议](https://mp.weixin.qq.com/s/qDHY7r068UTpJnYcJ1Favw)
 * ...
