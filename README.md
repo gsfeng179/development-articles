@@ -11,8 +11,8 @@
 * [Canal源码学习-端木轩](notes/canal_源码解读.md)
 * ...
 
-### 分布式
-##### 分布式事务
+## 分布式
+#### 分布式事务
 * [分布式事务怎么处理？一文告诉你!](https://mp.weixin.qq.com/s?__biz=MjM5NzMyMjUwMg==&mid=2247484753&idx=1&sn=fe10b3214b402c132d2dfcd44b9429b9&chksm=a6da8f3891ad062eef19a4e09b5565da313207f4cb508dccb934d857a5efce7d21856016d2ae&scene=0#rd)
 * [分布式事务的实现原理](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NjI2Nw==&mid=2652561049&idx=1&sn=474130817146891a890454029e02d80a&chksm=f39a3bedc4edb2fbd501ecff2daa7a8ffa5f93d327bf0d434abe7ba8c63568fd959c493bc482&scene=0#rd)
 * [聊聊微服务架构及分布式事务解决方案！](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247486512&idx=1&sn=01ce7459e71ffe204025fb66248a0c08&chksm=eb538906dc240010f561e14f4a71f98db2e35eee892523e71456675bdbe30c56b0096433d975&scene=0#rd)
@@ -36,7 +36,9 @@
 * [拜托，面试请不要再问我TCC分布式事务的实现原理！【石杉的架构笔记】](https://mp.weixin.qq.com/s/mIW1_K5fAoa2OlSLdXSHpQ)
 * [最终一致性分布式事务如何保障实际生产中99.99%高可用？【石杉的架构笔记】](https://mp.weixin.qq.com/s/yRDUQtVPz5eqCx961xL6nw)
 
-##### RPC
+#### [分库分表](notes/sharding.md)
+
+#### RPC
 
 ### 随读
 * [网站高并发大流量访问的处理及解决方法](http://mp.weixin.qq.com/s/OMyWg53xBF2_Lk0QYDOWpw)
