@@ -17,7 +17,7 @@
 #### [分库分表](notes/sharding.md)
 
 #### 分布式主键
-* [分布式主键要求与选择]()
+* [分布式ID](https://mp.weixin.qq.com/s/KfoLFClRwDXlcTDmhCEdaQ)
 * [雪花算法]()
 
 
