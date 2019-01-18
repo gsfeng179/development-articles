@@ -8,9 +8,13 @@
 >Oceanus(58同城数据库中间件)  
 >OneProxy(支付宝首席架构师楼方鑫开发)  
 >vitess（谷歌开发的数据库中间件）  
+
+### 简单介绍
+
  
 ### 相关技术文档
 * [数据库是如何分库，如何分表的？](https://mp.weixin.qq.com/s/yAI3iSITpl0N8pgXZ1O1dw)
+> [分片知识点整理](分片知识点整理.md)
 * [分库分表需要考虑的问题及方案](https://mp.weixin.qq.com/s/Fn_4mYZXW1vj1eHx75xDkw)
 * [数据库分库分表后，如何部署上线？](https://mp.weixin.qq.com/s/fDNTMx1KCNsIwcbJPdHcwQ)
 * [分库分表技术演进&最佳实践](https://mp.weixin.qq.com/s/WaIE-JGqi4uAS6MXyXB88g)
@@ -22,3 +26,4 @@
 * [举一反三：不停机分库分表迁移](https://mp.weixin.qq.com/s/oK94W71MAdNKXLxHl5dpPQ)
 * [分库分表的事务处理机制](https://mp.weixin.qq.com/s/Z2uqixTplk5CilQNamOR2A)
 * [阿里巴巴数据库分库分表的实践](https://mp.weixin.qq.com/s/5bG563TGy5tDaV9WTNXA7A)
+* [架构-水平切分架构之基因法](https://www.cnblogs.com/JohnABC/p/7145257.html)

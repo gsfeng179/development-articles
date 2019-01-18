@@ -16,6 +16,11 @@
 
 #### [分库分表](notes/sharding.md)
 
+#### 分布式主键
+* [分布式主键要求与选择]()
+* [雪花算法]()
+
+
 #### RPC
 
 ### 随读
@@ -55,3 +60,5 @@
 * [码农翻身2016全年文章精华](https://mp.weixin.qq.com/s/EjVfk1iOuQUjLfPxt_DJ7Q)
 * [码农翻身2017全年文章精华](https://mp.weixin.qq.com/s/cbaR--hlEN37fwTIRNhKaQ)
 * ...
+
+### 优秀技术文章仓库
