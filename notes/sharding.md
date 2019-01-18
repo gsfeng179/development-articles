@@ -1,4 +1,4 @@
-###分库分表中间件有哪些  
+### 分库分表中间件有哪些  
 >shardingsphere(Sharding-JDBC、Sharding-Proxy和Sharding-Sidecar(规划中))  
 >TSharding(https://github.com/baihui212/tsharding)  
 >TDDL Smart Client的方式（淘宝）  
@@ -9,7 +9,7 @@
 >OneProxy(支付宝首席架构师楼方鑫开发)  
 >vitess（谷歌开发的数据库中间件）  
  
-###相关技术文档
+### 相关技术文档
 * [数据库是如何分库，如何分表的？](https://mp.weixin.qq.com/s/yAI3iSITpl0N8pgXZ1O1dw)
 * [分库分表需要考虑的问题及方案](https://mp.weixin.qq.com/s/Fn_4mYZXW1vj1eHx75xDkw)
 * [数据库分库分表后，如何部署上线？](https://mp.weixin.qq.com/s/fDNTMx1KCNsIwcbJPdHcwQ)
