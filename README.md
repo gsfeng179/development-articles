@@ -2,7 +2,9 @@
 
 
 ### DB数据异构
-* [Alibaba 数据异构利器Canal](https://github.com/alibaba/canal)
+> ***中间件***  
+> [Alibaba 数据异构利器Canal](https://github.com/alibaba/canal)  
+> [mysql-binlog-connector-java](https://github.com/shyiko/mysql-binlog-connector-java)
 * [美团 DB 数据同步到数据仓库的架构与实践](https://tech.meituan.com/binlog_dw.html)
 * [ElasticSearch + Canal 开发千万级的实时搜索系统](https://mp.weixin.qq.com/s/ztVsWqAtO1kT9dFZLW3rZg)
 * [Msql-Canal数据库同步](https://mp.weixin.qq.com/s/TwhzVdEIEIGx2Rir_5tG8w)
