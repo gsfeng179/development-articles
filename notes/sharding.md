@@ -1,6 +1,6 @@
 ### 分库分表中间件有哪些  
->shardingsphere(Sharding-JDBC、Sharding-Proxy和Sharding-Sidecar(规划中))  
->TSharding(https://github.com/baihui212/tsharding)  
+>[sharding sphere](https://github.com/apache/incubator-shardingsphere)  
+>[TSharding](https://github.com/baihui212/tsharding)  
 >TDDL Smart Client的方式（淘宝）  
 >Atlas(Qihoo 360)  
 >alibaba.cobar(是阿里巴巴（B2B）部门开发)  
@@ -21,6 +21,5 @@
 * [10亿级订单系统分库分表设计思路！](https://mp.weixin.qq.com/s/EY1L-7GpZ8AVsaM8sdpgAw)
 * [借鉴Codis实现的两种不停机分库分表迁移方案](https://mp.weixin.qq.com/s/7pvwWZun0KBN4jE14ViSlA)
 * [关于分库分表，这有一套大而全的轻量级架构设计思路](https://mp.weixin.qq.com/s/eOaVRyCTKHeAWG4UXcGjQQ)
-* [分库分表的事务处理机制](https://mp.weixin.qq.com/s/Z2uqixTplk5CilQNamOR2A)
 * [阿里巴巴数据库分库分表的实践](https://mp.weixin.qq.com/s/5bG563TGy5tDaV9WTNXA7A)
 * [架构-水平切分架构之基因法](https://www.cnblogs.com/JohnABC/p/7145257.html)
