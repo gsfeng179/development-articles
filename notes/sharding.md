@@ -20,7 +20,6 @@
 * [分库分表技术演进&最佳实践](https://mp.weixin.qq.com/s/WaIE-JGqi4uAS6MXyXB88g)
 * [10亿级订单系统分库分表设计思路！](https://mp.weixin.qq.com/s/EY1L-7GpZ8AVsaM8sdpgAw)
 * [分库分表引起的问题以及处理方式](https://mp.weixin.qq.com/s/Td7SuN6C-1y9IeYfvarvZA)
-* [数据库分库分表如何避免“过度设计”和“过早优化”](https://mp.weixin.qq.com/s/uTRwstOABOgZf2YCbgz5TQ)
 * [借鉴Codis实现的两种不停机分库分表迁移方案](https://mp.weixin.qq.com/s/7pvwWZun0KBN4jE14ViSlA)
 * [关于分库分表，这有一套大而全的轻量级架构设计思路](https://mp.weixin.qq.com/s/eOaVRyCTKHeAWG4UXcGjQQ)
 * [举一反三：不停机分库分表迁移](https://mp.weixin.qq.com/s/oK94W71MAdNKXLxHl5dpPQ)
