@@ -1,13 +1,12 @@
 ### 分库分表中间件有哪些  
 >[sharding sphere](https://github.com/apache/incubator-shardingsphere)  
 >[TSharding](https://github.com/baihui212/tsharding)  
->TDDL Smart Client的方式（淘宝）  
->Atlas(Qihoo 360)  
->alibaba.cobar(是阿里巴巴（B2B）部门开发)  
->MyCAT（基于阿里开源的Cobar产品而研发）  
->Oceanus(58同城数据库中间件)  
->OneProxy(支付宝首席架构师楼方鑫开发)  
->vitess（谷歌开发的数据库中间件）  
+>[Atlas](https://github.com/Qihoo360/Atlas)(Qihoo 360)  
+>[vitess](https://github.com/vitessio/vitess)（谷歌开发的数据库中间件）  
+>[alibaba.cobar](https://github.com/alibaba/cobar)(是阿里巴巴（B2B）部门开发)  
+>[MyCAT](https://github.com/MyCATApache/Mycat-Server)（基于阿里开源的Cobar产品而研发）  
+>[OneProxy](http://www.onexsoft.cn/opmysql.html)(支付宝首席架构师楼方鑫开发)  
+
 
 ### 简单介绍
 
