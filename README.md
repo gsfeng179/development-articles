@@ -14,8 +14,11 @@
 
 ## 分布式
 #### [分布式事务](notes/DistributedTransaction.md)
+* [微服务下一致性线上培训](https://mp.weixin.qq.com/s/HS3Mfmnkq7D2Jzq-baSv1g)(视频)
+
 
 #### [分库分表](notes/sharding.md)
+
 
 #### 分布式主键
 * [分布式ID](https://mp.weixin.qq.com/s/KfoLFClRwDXlcTDmhCEdaQ)
