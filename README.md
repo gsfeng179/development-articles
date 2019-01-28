@@ -53,6 +53,7 @@
 * [深入理解单例模式：静态内部类单例原理](https://blog.csdn.net/mnb65482/article/details/80458571)
 * [java设计模式【全】-- Java知音公众号](https://mp.weixin.qq.com/s/--Mnh-VWhcmskh1J3yU7CA)
 * [Java中Enum类型的序列化及类升级不建议用枚举的原因](https://blog.csdn.net/hupoling/article/details/74990456)
+* [我是 SPI，我让框架更加优雅了！](https://mp.weixin.qq.com/s/fui80veGcqkRzfgfPOPCNA)
 # 网络
 * [改变世界的TCP/IP协议](https://mp.weixin.qq.com/s/qDHY7r068UTpJnYcJ1Favw)
 * 
