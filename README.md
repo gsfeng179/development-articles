@@ -52,6 +52,7 @@
 * [漫画：什么是单例模式？（整合版）](http://note.youdao.com/noteshare?id=b45dfc81cca23a69893020a389fcc121&sub=020DE73E0EA1415EBD42884F97A7A40D)
 * [深入理解单例模式：静态内部类单例原理](https://blog.csdn.net/mnb65482/article/details/80458571)
 * [java设计模式【全】-- Java知音公众号](https://mp.weixin.qq.com/s/--Mnh-VWhcmskh1J3yU7CA)
+* [examples-of-gof-design-patterns-in-javas-core-libraries](https://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries?rq=1)
 * [Java中Enum类型的序列化及类升级不建议用枚举的原因](https://blog.csdn.net/hupoling/article/details/74990456)
 * [我是 SPI，我让框架更加优雅了！](https://mp.weixin.qq.com/s/fui80veGcqkRzfgfPOPCNA)
 # 网络
