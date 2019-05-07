@@ -55,6 +55,11 @@
 * [examples-of-gof-design-patterns-in-javas-core-libraries](https://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries?rq=1)
 * [Java中Enum类型的序列化及类升级不建议用枚举的原因](https://blog.csdn.net/hupoling/article/details/74990456)
 * [我是 SPI，我让框架更加优雅了！](https://mp.weixin.qq.com/s/fui80veGcqkRzfgfPOPCNA)
+
+* JVM
+  > [MAT入门到精通（一）](https://mp.weixin.qq.com/s/3D5LsakqaMxR1P00F54orw)<br/>
+  > [MAT入门到精通（二）](https://mp.weixin.qq.com/s/wWV92hSaT5UrcnoHnCO1gA)<br/>
+  > [一个Java对象到底占用多大内存?](https://mp.weixin.qq.com/s/BfWMp-3vPcg1eMgL4D249g)<br/>
 # 网络
 * [改变世界的TCP/IP协议](https://mp.weixin.qq.com/s/qDHY7r068UTpJnYcJ1Favw)
 * 
