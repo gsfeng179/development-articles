@@ -78,3 +78,4 @@
 * [interviews](https://github.com/kdn251/interviews)(Everything you need to know to get the job)
 * [JavaGuide](https://github.com/Snailclimb/JavaGuide)(Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。)
 * [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial)(《Java 程序员眼中的 Linux》)
+* [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
