@@ -60,6 +60,8 @@
   > [MAT入门到精通（一）](https://mp.weixin.qq.com/s/3D5LsakqaMxR1P00F54orw)<br/>
   > [MAT入门到精通（二）](https://mp.weixin.qq.com/s/wWV92hSaT5UrcnoHnCO1gA)<br/>
   > [一个Java对象到底占用多大内存?](https://mp.weixin.qq.com/s/BfWMp-3vPcg1eMgL4D249g)<br/>
+  > [一个Java对象到底占用多大内存？](https://www.cnblogs.com/magialmoon/p/3757767.html)
+  > [Java程序内存分析：使用mat工具分析内存占用](https://yq.aliyun.com/articles/44641)
 # 网络
 * [改变世界的TCP/IP协议](https://mp.weixin.qq.com/s/qDHY7r068UTpJnYcJ1Favw)
 * 
