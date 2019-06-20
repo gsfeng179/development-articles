@@ -64,6 +64,7 @@
   > [Java程序内存分析：使用mat工具分析内存占用](https://yq.aliyun.com/articles/44641)
 # 网络
 * [改变世界的TCP/IP协议](https://mp.weixin.qq.com/s/qDHY7r068UTpJnYcJ1Favw)
+* [教你巧记OSI七层网络模型（个人总结）](https://mp.weixin.qq.com/s/rGw9KdxPkcdYfqJCgXWDOg)
 * 
 # 开源项目源码阅读
 * [Sharding-JDBC 源码解析合集](http://www.iocoder.cn/categories/Sharding-JDBC/?mp)
