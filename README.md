@@ -7,7 +7,7 @@
 * [美团 DB 数据同步到数据仓库的架构与实践](https://tech.meituan.com/binlog_dw.html)
 * [ElasticSearch + Canal 开发千万级的实时搜索系统](https://mp.weixin.qq.com/s/ztVsWqAtO1kT9dFZLW3rZg)
 * [Msql-Canal数据库同步](https://mp.weixin.qq.com/s/TwhzVdEIEIGx2Rir_5tG8w)
-* ...
+* [MySQL binlog原来可以这样用？各种场景和原理剖析！](https://mp.weixin.qq.com/s/MiPII_3w0lMU3Vzgsey29g)
 ###### 源码解读系列
 * [Canal源码学习-端木轩](notes/canal_源码解读.md)
 * 
