@@ -62,6 +62,11 @@
   > [一个Java对象到底占用多大内存?](https://mp.weixin.qq.com/s/BfWMp-3vPcg1eMgL4D249g)<br/>
   > [一个Java对象到底占用多大内存？](https://www.cnblogs.com/magialmoon/p/3757767.html)
   > [Java程序内存分析：使用mat工具分析内存占用](https://yq.aliyun.com/articles/44641)
+  
+# 微服务
+* [微服务架构与领域驱动设计应用实践](https://mp.weixin.qq.com/s/syC8TQdzro7rDlIKT_nx5w)
+
+
 # 网络
 * [改变世界的TCP/IP协议](https://mp.weixin.qq.com/s/qDHY7r068UTpJnYcJ1Favw)
 * [教你巧记OSI七层网络模型（个人总结）](https://mp.weixin.qq.com/s/rGw9KdxPkcdYfqJCgXWDOg)
