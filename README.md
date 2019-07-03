@@ -12,6 +12,10 @@
 * [Canal源码学习-端木轩](notes/canal_源码解读.md)
 * 
 
+##### MySQL
+* [InnoDB一棵B+树可以存放多少行数据？](https://mp.weixin.qq.com/s/xUJp62fFXC3_AJvAqQ0jZw)
+
+
 ## 分布式
 #### [分布式事务](notes/DistributedTransaction.md)
 * [微服务下一致性线上培训](https://mp.weixin.qq.com/s/HS3Mfmnkq7D2Jzq-baSv1g)(视频)
