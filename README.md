@@ -75,7 +75,8 @@
   > [领域驱动设计对软件复杂度的应对](https://mp.weixin.qq.com/s/8kIJXkO2BFzW7maGpr1gbA)
   > [微服务架构与领域驱动设计应用实践](https://mp.weixin.qq.com/s/ZxUB6fCZbfT9souesQmMNA)
   > [可以落地的DDD到底长什么样？](https://mp.weixin.qq.com/s/LCB-KqqctaL8h3Q5nz9gmA)
-  
+  > [领域驱动设计，盒马技术团队这么做](https://mp.weixin.qq.com/s/c_5QUFu778NM67gNSrzvqA)
+  > [大家一直在谈的领域驱动设计（DDD），我们在互联网业务系统是这么实践的](https://mp.weixin.qq.com/s/jMWuMuIvI1cFThC-WQGbHQ)
   
 
 # 网络
