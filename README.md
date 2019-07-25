@@ -69,12 +69,14 @@
   
 # 微服务
 * [微服务架构与领域驱动设计应用实践](https://mp.weixin.qq.com/s/syC8TQdzro7rDlIKT_nx5w)
+* [微服务设计指南](https://mp.weixin.qq.com/s/i_Qrnh7c8cmCVJaROaj_7Q)
+* [从既有系统到微服务架构](https://mp.weixin.qq.com/s/_w9kxtZqG0JH8DC6ngSFTw)
 * 领域驱动设计（DDD）
   > [领域驱动设计对软件复杂度的应对](https://mp.weixin.qq.com/s/8kIJXkO2BFzW7maGpr1gbA)
-  > 
-  > 
-  > 
-  > 
+  > [微服务架构与领域驱动设计应用实践](https://mp.weixin.qq.com/s/ZxUB6fCZbfT9souesQmMNA)
+  > [可以落地的DDD到底长什么样？](https://mp.weixin.qq.com/s/LCB-KqqctaL8h3Q5nz9gmA)
+  
+  
 
 # 网络
 * [改变世界的TCP/IP协议](https://mp.weixin.qq.com/s/qDHY7r068UTpJnYcJ1Favw)
