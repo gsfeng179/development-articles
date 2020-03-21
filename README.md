@@ -19,7 +19,7 @@
 ## 分布式
 #### [分布式事务](notes/DistributedTransaction.md)
 * [微服务下一致性线上培训](https://mp.weixin.qq.com/s/HS3Mfmnkq7D2Jzq-baSv1g)(视频)
-
+* [面试官：如何设计一个高性能短链系统？](https://mp.weixin.qq.com/s/zdIbZwExrOxsj7-s6yrzvA)
 
 #### [分库分表](notes/sharding.md)
 
